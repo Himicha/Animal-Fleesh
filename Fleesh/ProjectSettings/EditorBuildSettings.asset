@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OpeningScene.unity
+    guid: 4ae1b4c13f0611b4d8d9286c98b91408
+  - enabled: 1
+    path: Assets/Scenes/AnimalSelection.unity
+    guid: b91b7c158d3b4f94ebd9b1ab286b663c
+  - enabled: 1
+    path: Assets/Scenes/Meat cut.unity
+    guid: 0c9b96dafd34500438ec3d87c6823255
+  - enabled: 1
+    path: Assets/Scenes/Meat customization.unity
+    guid: 51f982fe7435293449f9cf1820821744
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: f7ca819c6caad864f90276ba89b1da19,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: eab7d6ed7a7a8a74283619afaacf43fb, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 1afc5e8fc19151e4a883458c45d2388c, type: 2}
