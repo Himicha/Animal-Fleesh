@@ -12,8 +12,29 @@ EditorBuildSettings:
     path: Assets/Scenes/AnimalSelection.unity
     guid: b91b7c158d3b4f94ebd9b1ab286b663c
   - enabled: 1
-    path: Assets/Scenes/Meat cut.unity
+    path: Assets/Scenes/Chicken/MeatCut_Chicken.unity
     guid: 0c9b96dafd34500438ec3d87c6823255
+  - enabled: 1
+    path: Assets/Scenes/Cow/MeatCut_Cow.unity
+    guid: babe0a516b798354eba72ff9ecba734a
+  - enabled: 1
+    path: Assets/Scenes/Pig/MeatCut_Pig.unity
+    guid: 30ec9b79ab080084fb6771971168fba1
+  - enabled: 1
+    path: Assets/Scenes/Goose/MeatCut_Goose.unity
+    guid: 24bff68fc03efd5448546385cc2e0671
+  - enabled: 1
+    path: Assets/Scenes/Shark/MeatCut_Shark.unity
+    guid: 3a0bbdd713644484e99f81e7c8ff162c
+  - enabled: 1
+    path: Assets/Scenes/Elephant/MeatCut_Elephant.unity
+    guid: b5ef3e1039a6b114097b7a3a39f3cc98
+  - enabled: 1
+    path: Assets/Scenes/Giraffe/MeatCut_Giraffe.unity
+    guid: 5e929a2f475ff0a4a9e87e004b7bce5a
+  - enabled: 1
+    path: Assets/Scenes/Snake/MeatCut_Snake.unity
+    guid: 97e44b31cbb398a46a3e6d2ac672ca10
   - enabled: 1
     path: Assets/Scenes/Meat customization.unity
     guid: 51f982fe7435293449f9cf1820821744

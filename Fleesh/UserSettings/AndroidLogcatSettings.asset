@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "R5CR91EGGDE",
         "name": "com.DefaultCompany.Myproject",
-        "processId": 21492,
+        "processId": 22318,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -48,6 +48,30 @@
             "deviceId": "R5CR91EGGDE",
             "name": "com.DefaultCompany.Myproject",
             "processId": 21492,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR91EGGDE",
+            "name": "com.DefaultCompany.Myproject",
+            "processId": 15636,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR91EGGDE",
+            "name": "com.DefaultCompany.Myproject",
+            "processId": 27525,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR91EGGDE",
+            "name": "com.DefaultCompany.Myproject",
+            "processId": 21068,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR91EGGDE",
+            "name": "com.DefaultCompany.Myproject",
+            "processId": 22318,
             "exited": false
         }
     ],
